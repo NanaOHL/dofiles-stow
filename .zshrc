@@ -136,3 +136,4 @@ alias ls='eza --color=always --long --git --no-filesize  --icons=always --no-use
 eval "$(zoxide init zsh)"
 
 alias cd="z"
+. "/Users/nana/.deno/env"

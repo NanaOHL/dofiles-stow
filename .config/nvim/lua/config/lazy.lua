@@ -51,5 +51,4 @@ require("lazy").setup({
       },
     },
   },
-  { "zbirenbaum/copilot.lua", cmd = "Copilot", build = ":Copilot auth" },
 })
